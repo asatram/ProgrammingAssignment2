@@ -1,3 +1,7 @@
+## Anil Satram
+## Date: 26-Sep-2015
+
+
 ## Creates a special "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
